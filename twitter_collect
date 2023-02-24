@@ -1,0 +1,5 @@
+# Connect to the Twitter API
+consumer_key = 'amKQslbHGOqwXgX6O5PaBXL75'
+consumer_secret = 'q9TrxNYiNuBH9euEwq1KXaNas5tPpypHLrY1yeNobo9ECiHlVV'
+access_token = '10205062-kNfkISitiPHU25iov2d9hSxwnnl1RPcZRgVb8uemU'
+access_token_secret = 'HgLDdqQjTk9HMs9BKyAf1gGdeCCXZs1T6oVBLlC74gTu3'
